@@ -4,9 +4,9 @@ Application to receive and control calls for technical assistance.
 
 Developed using AdonisJS, React and React Native
 
-- **Backend Repository Link**: 
-- **Frontend Repository Link**: 
-- **Mobile Repository Link**: 
+- **Backend Repository Link**: [Backend](https://github.com/JoaoPedro1999/techonoapp-backend)
+- **Frontend Repository Link**: **_ Coming soon _**
+- **Mobile Repository Link**: **_ Coming soon _**
 
 # Functionalities
 - Calculation of the final price based on the time of the call (time x price per hour)
