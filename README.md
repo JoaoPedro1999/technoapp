@@ -1,10 +1,10 @@
-# TechonoApp
+# TechnoApp
 
 Application to receive and control calls for technical assistance.
 
 Developed using AdonisJS, React and React Native
 
-- **Backend Repository Link**: [Backend](https://github.com/JoaoPedro1999/techonoapp-backend)
+- **Backend Repository Link**: [Backend](https://github.com/JoaoPedro1999/technoapp-backend)
 - **Frontend Repository Link**: *** Coming soon ***
 - **Mobile Repository Link**: *** Coming soon ***
 
